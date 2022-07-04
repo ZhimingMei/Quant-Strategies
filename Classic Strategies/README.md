@@ -9,7 +9,8 @@
 In a certain period of time, if a stock or a stock portfolio performed well (poorly) in the previous period, the stock or stock portfolio will still perform well (poorly) in the next period.
 
 For coding and implementing details, please refer to the code file.             
->> momentum.ipynb       
+> momentum.ipynb      
+    
 *Updates: Jun 10, 2022*
 
 
@@ -23,6 +24,8 @@ IG.com provides the digest summary of this strategy. Refer to https://www.ig.com
 pythondict.com provides the idea and some recurrence details. Link: https://pythondict.com/quant/backtrader-easy-quant-macd-26profit/ 
 
 ### Files
->> macd.ipynb
->> mack_bt.py
-The second file use backtrader package to construct the backtesting framework
+> macd.ipynb         
+> mack_bt.py
+
+The second file use backtrader package to construct the backtesting framework.        
+*Updates: Jul 4, 2022*
