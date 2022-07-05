@@ -19,6 +19,8 @@ For coding and implementing details, please refer to the code file.
 ### Digest Summary
 The **MACD line and signal line** can be utilised in much the same manner as a stochastic oscillator, with the crossover between the two lines providing buy and sell signals. As with most crossover strategies, a buy signal comes when the shorter-term, more reactive line – in this case the MACD line – crosses above the slower line – the signal line. Conversely, when the MACD line crosses below the signal line it provides a bearish sell signal.
 
+### Figure
+![figure1](https://github.com/ZhimingMei/Quant-Strategies/blob/main/Classic%20Strategies/macd_bt.png)
 ### Reference
 IG.com provides the digest summary of this strategy. Refer to https://www.ig.com/en/trading-strategies/macd-trading-strategy-190610 for more details.             
 pythondict.com provides the idea and some recurrence details. Link: https://pythondict.com/quant/backtrader-easy-quant-macd-26profit/ 
