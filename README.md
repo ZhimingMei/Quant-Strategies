@@ -14,3 +14,6 @@ I will continue to update this repository. And currently, we have following stra
 
 ### STR Fatcor
 Inspired by research report *量稳换手率选股因子——量小、量缩，都不如量稳?* from SOOCHOW Securities.
+
+### New_OvernightRet Factor
+The idea comes from research report *如何将隔夜涨跌变为有效的选股因子？--基于对知情交易者信息优势的刻画* from GUOSHENG Securities.
