@@ -22,3 +22,14 @@ During the entire backtesting period, the overall effect of the turnover rate ch
 **STEP:**
 1. At the end of each month, look back at the past 20 trading days of each stock and calculate the standard deviation of its 20-day turnover rate
 2. Neutralize the market value on the cross section, that is, get the factor value of all stocks in the current month, and record it as the factor of stable volume turnover
+
+## Files
+`str_empirical.ipynb`       
+This file provides brief introductions on how to calculate these two factors. And conduct the *backtest (not rigorous)* to show the cumulative return figures between different groups.
+
+`str_backtest.ipynb`      
+This file gives a backtesting framework for single factor, using the package *alphalens*
+
+## Report
+![figure1](https://github.com/ZhimingMei/Quant-Strategies/blob/main/The%20Stability%20of%20Turnover%20Rate%20(STR)%20Factor/str_report.png)
+
