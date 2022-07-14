@@ -10,8 +10,10 @@ Among the groups with the largest turnover rates, the future earnings of the con
 
 ### Percent Turnover Factor    
 **STEP:**
-1. At the end of each month, we will review the past 20 trading days of all stocks and calculate the change rate of turnover rate for each trading day 
-$$ DailyPctTurn = DailyTurn / BenchmarkTurn - 1 $$
+1. At the end of each month, we will review the past 20 trading days of all stocks and calculate the change rate of turnover rate for each trading day
+$$
+DailyPctTurn = DailyTurn / BenchmarkTurn - 1
+$$
 
 2. The calculation of the benchmark turnover rate requires taking X (X=40) trading days further and calculating the average of the turnover rate for these X trading days.
 3. After each stock gets the 20-day turnover rate change rate, calculate their average value, and then do a cross-sectional market value neutralization treatment.
