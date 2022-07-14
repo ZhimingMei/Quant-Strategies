@@ -31,5 +31,8 @@ This file provides brief introductions on how to calculate these two factors. An
 This file gives a backtesting framework for single factor, using the package *alphalens*
 
 ## Report
-![figure1](https://github.com/ZhimingMei/Quant-Strategies/blob/main/The%20Stability%20of%20Turnover%20Rate%20(STR)%20Factor/str_report.png)
+![figure1](https://github.com/ZhimingMei/Quant-Strategies/blob/main/The%20Stability%20of%20Turnover%20Rate%20(STR)%20Factor/Report/str_report1.png)
+![figure2](https://github.com/ZhimingMei/Quant-Strategies/blob/main/The%20Stability%20of%20Turnover%20Rate%20(STR)%20Factor/Report/str_report2.png)
+![figure3](https://github.com/ZhimingMei/Quant-Strategies/blob/main/The%20Stability%20of%20Turnover%20Rate%20(STR)%20Factor/Report/str_report3.png)
+
 
